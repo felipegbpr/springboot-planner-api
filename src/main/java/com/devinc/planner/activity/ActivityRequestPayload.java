@@ -1,4 +1,4 @@
-package com.devinc.planner.activities;
+package com.devinc.planner.activity;
 
 public record ActivityRequestPayload(String title, String occurs_at) {
 }

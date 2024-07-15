@@ -1,10 +1,5 @@
-package com.devinc.planner.activities;
+package com.devinc.planner.activity;
 
-import com.devinc.planner.activities.Activity;
-import com.devinc.planner.activities.ActivityRepository;
-import com.devinc.planner.activities.ActivityRequestPayload;
-import com.devinc.planner.activities.ActivityResponse;
-import com.devinc.planner.participant.ParticipantData;
 import com.devinc.planner.trip.Trip;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

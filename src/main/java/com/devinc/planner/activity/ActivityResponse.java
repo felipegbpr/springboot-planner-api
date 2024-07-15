@@ -1,4 +1,4 @@
-package com.devinc.planner.activities;
+package com.devinc.planner.activity;
 
 import java.util.UUID;
 
